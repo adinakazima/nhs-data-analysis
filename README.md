@@ -9,7 +9,7 @@ to uncover insights that can improve patient care and support data-driven decisi
 - **Database Design**: Built and normalized a healthcare database in SQLite from disparate, unnormalized CSV files. Produced an ER diagram and documented the normalization process.  
 - **Solution 1**: Applied logistic regression to predict patient readmissions.  
 - **Solution 2**: Compared NHS and private hospital surgery outcomes using Chi-Square Test.  
-- **Solution 3**: Applied K-means clustering to segment patient profiles, indentifying high-risk patients.
+- **Solution 3**: Applied K-means clustering to segment patient profiles, identifying high-risk patients.
 - **Visualisations**: Designed clear charts and graphs to communicate findings effectively. 
 - **Ethics and Analysis**: Reflected on ethical implications and challenges associated with the solutions.   
 
@@ -18,7 +18,7 @@ to uncover insights that can improve patient care and support data-driven decisi
 - Pandas, NumPy, Scikit-learn  
 - DB Browser for SQLite  
 
-## View Project
+## 🔗 View Project
 You can view the rendered HTML project here:
 [Open NHS Data Analysis](https://adinakazima.github.io/nhs-data-analysis/)
 
