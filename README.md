@@ -4,7 +4,7 @@ This project was completed as part of my Data Science coursework for my Computer
 to uncover insights that can improve patient care and support data-driven decision-making by hospital administrators, policymakers, and medical professionals.
 
 **🔗 View Project Here:**
-[Open NHS Data Analysis](https://adinakazima.github.io/nhs-data-analysis/)
+[Open NHS Data Analysis]([https://adinakazima.github.io/nhs-data-analysis/](https://adinakazima.github.io/nhs-data-analysis/))
 
 ## Key Features
 
