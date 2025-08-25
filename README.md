@@ -3,7 +3,7 @@
 This project was completed as part of my Data Science coursework for my Computer Science with AI degree. It focuses on leveraging NHS healthcare data 
 to uncover insights that can improve patient care and support data-driven decision-making by hospital administrators, policymakers, and medical professionals.
 
-**🔗 View Project here:**
+**🔗 View Project Here:**
 [Open NHS Data Analysis](https://adinakazima.github.io/nhs-data-analysis/)
 
 ## Key Features
@@ -21,10 +21,6 @@ to uncover insights that can improve patient care and support data-driven decisi
 - Pandas, NumPy, Scikit-learn  
 - DB Browser for SQLite  
 
-## 🔗 View Project
-You can view the rendered HTML project here:
-[Open NHS Data Analysis](https://adinakazima.github.io/nhs-data-analysis/)
-
-**Notes**
+## Notes 
 - The original database and raw data are not included due to size and confidentiality restrictions.  
-- Sample outputs and results are documented in the notebook.
+- Sample outputs and results are documented in the rendered HTML notebook.
